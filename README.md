@@ -111,99 +111,101 @@ StringPerformanceTest.java :- [Output Screenshot](https://github.com/Pavan200412
 
 ## 🔸 EXP-4: Swings UI
 
-4a. SwingExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-4_Swings/Screenshot-4a_Swings_SwingExample.png)
+4a. SwingExample.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-4_Swings/Screenshot-4a_Swings_SwingExample.png)
 
-4b. ButtonExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-4_Swings/Screenshot-4b_Swings_ButtonExample.png)
+4b. ButtonExample.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-4_Swings/Screenshot-4b_Swings_ButtonExample.png)
 
-4c. ImageButtonExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-4_Swings/Screenshot-4c_Swings_ImageButtonExample.png)
+4c. ImageButtonExample.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-4_Swings/Screenshot-4c_Swings_ImageButtonExample.png)
 
-4d. MouseOperationsExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-4_Swings/Screenshot-4d_Swings_MouseOperationsExample.png)
+4d. MouseOperationsExample.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-4_Swings/Screenshot-4d_Swings_MouseOperationsExample.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ##🔹 EXP-5: Swings UI
 
-5a. JListExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-5_Swings/Screenshot-5a_Swings_JListExample.png)
+5a. JListExample.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-5_Swings/Screenshot-5a_Swings_JListExample.png)
 
-5b. TabbedPaneExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-5_Swings/Screenshot-5b_Swings_TabbedPaneExample.png)
+5b. TabbedPaneExample.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-5_Swings/Screenshot-5b_Swings_TabbedPaneExample.png)
 
-5c. CountryCapitalList.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-5_Swings/Screenshot-5c_Swings_CountryCapitalList.png)
+5c. CountryCapitalList.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-5_Swings/Screenshot-5c_Swings_CountryCapitalList.png)
 
-5d. ColorTabbedPane.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-5_Swings/Screenshot-5d_Swings_ColorTabbedPane.png)
+5d. ColorTabbedPane.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-5_Swings/Screenshot-5d_Swings_ColorTabbedPane.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 🔸 EXP-6: Servlet Programs
 
 📁 6a_FactorialServlet-
-FactorialServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-6_servlet_programs/6a_FactorialServlet/Screenshot-6a_FactorialServlet.png)
+FactorialServlet.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-6_servlet/6a_FactorialServlet/Screenshot-6a_FactorialServlet.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 6b_CookieServlet-
-CookieServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-6_servlet_programs/6b_CookieServlet/Screenshot-6b_CookieServlet.png)
+CookieServlet.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-6_servlet/6b_CookieServlet/Screenshot-6b_CookieServlet.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 6c_PrimeServlet-
-PrimeServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-6_servlet_programs/6c_PrimeServlet/Screenshot-6c_PrimeServlet.png)
+PrimeServlet.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-6_servlet/6c_PrimeServlet/Screenshot-6c_PrimeServlet.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ##🔹 EXP-7a: JSP_Session_Management 
 
-welcome.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-7a_JSP_Session_Management/Screenshot-7a_Session_Management.png)
+welcome.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-7a_JSP_Session_Management/Screenshot-7a_Session_Management.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 🔹 EXP-7b: JSP_Cookie_Management 
 
-setCookie.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-7b_JSP_Cookie_Management/Screenshot-7b_Cookie_Management.png)
+setCookie.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-7b_JSP_Cookie_Management/Screenshot-7b_Cookie_Management.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ##🔸 EXP-8: JDBC + SQL 
 
-## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/MySQL_Setup
+## 🐬 MySql_Setup :- (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/MySQL_Setup)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8a_Insert_Coffee-
-insert_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a2.png)
+insert_coffee.jsp :- 1-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/8a_Insert_Coffee/8a1.png) ||
+2-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/8a_Insert_Coffee/8a2.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8b_Update_Coffee-
-update_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b2.png)
+update_coffee.jsp :- 1-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/8b_Update_Coffee/8b1.png) ||
+2-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/8b_Update_Coffee/8b2.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8c_JDBC_Append_Emp-
-insert_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8c_JDBC_Append_Emp/Screenshot-8c_JDBC_append.png)
+insert_emp.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/8c_JDBC_Append_Emp/Screenshot-8c_JDBC_append.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8d_JDBC_Update_Emp-
-update_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8d_JDBC_Update_Emp/Screenshot-8d_JDBC_Update.png)
+update_emp.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/8d_JDBC_Update_Emp/Screenshot-8d_JDBC_Update.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 🔹 EXP-9: JDBC + SQL
 
-## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/MySQL_Setup)
+## 🐬 MySql_Setup :- (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/MySQL_Setup)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9a_Delete_Coffee- 
-delete_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a2.png)
+delete_coffee.jsp :- 1-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9a_Delete_Coffee/9a1.png) ||
+2-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9a_Delete_Coffee/9a2.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9b_Query_Coffee-
-query_coffee.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b1.png)
+query_coffee.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b1.png)||
+2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b2.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
