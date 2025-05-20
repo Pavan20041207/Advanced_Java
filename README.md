@@ -164,7 +164,7 @@ setCookie.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_J
 
 ## 🔸 EXP-8: JDBC + SQL 
 
-## 🐬 MySql_Setup :- (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/MySQL_Setup)
+## 🐬 MySql_Setup :-[Link] (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/MySQL_Setup).
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
@@ -192,7 +192,7 @@ update_emp.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_
 
 ## 🔹 EXP-9: JDBC + SQL
 
-## 🐬 MySql_Setup :- (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/MySQL_Setup)
+## 🐬 MySql_Setup :-[Link] (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/MySQL_Setup)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
