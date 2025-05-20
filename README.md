@@ -67,45 +67,45 @@ MapInterfaceDemo.java :- [Output Screenshot](https://github.com/Pavan20041207/Ad
 
 📁 2b_TreeMap-
 
-1. TreeMapEntry.java    :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_1.png)
-2. TreeMapContains.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_2.png)
-3. TreeMapPut.java      :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_3.png)
-4. TreeMapKey.java      :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_4.png)
+1. TreeMapEntry.java    :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2b_TreeMap/Screenshot-Tree_Map_1.png)
+2. TreeMapContains.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2b_TreeMap/Screenshot-Tree_Map_2.png)
+3. TreeMapPut.java      :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2b_TreeMap/Screenshot-Tree_Map_3.png)
+4. TreeMapKey.java      :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2b_TreeMap/Screenshot-Tree_Map_4.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 2c_LinkedHashMap-
 
-1. LinkedHashMapLoop.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2c_LinkedHashMap/Screenshot-Linked_HashMap_1.png)
-2. ProgramLanguages.java  :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2c_LinkedHashMap/Screenshot-Linked_HashMap_2.png)
-3. IterateLanguages.java  :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2c_LinkedHashMap/Screenshot-Linked_HashMap_3.png)
-4. key_val.java           :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2c_LinkedHashMap/Screenshot-Linked_HashMap_4.png)
+1. LinkedHashMapLoop.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2c_LinkedHashMap/Screenshot-Linked_HashMap_1.png)
+2. ProgramLanguages.java  :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2c_LinkedHashMap/Screenshot-Linked_HashMap_2.png)
+3. IterateLanguages.java  :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2c_LinkedHashMap/Screenshot-Linked_HashMap_3.png)
+4. key_val.java           :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-2_SetInterface/2c_LinkedHashMap/Screenshot-Linked_HashMap_4.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 🔹 EXP-3: String Operations
 
 📁 3a_StringOperations- 
-StringOperationsDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3a_StringOperations/Screenshot-3a_String_Operations.png)
+StringOperationsDemo.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3a_StringOperations/Screenshot-3a_String_Operations.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 3b_StringPerformanceTest-
-StringPerformanceTest.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3b_StringPerformanceTest/Screenshot-2b_String_PerformanceTest.png)
+StringPerformanceTest.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3b_StringPerformanceTest/Screenshot-2b_String_PerformanceTest.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 3c_String_Exercises-
-1. IsNullOrEmptyCheck.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3b_String_IsNullOrEmptyCheck.png)
-2. SubstringCount.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3b_String_SubstringCount.png)
-3. ReverseStringProgram.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3b_String_ReverseStringProgram.png)
-4. PalindromeCheck.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3b_String_PalindromeCheck.png)
-5. RemoveWhitespace.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3b_String_RemoveWhitespace.png)
-6. CapitalizeEachWord.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3c_String_CapitalizeEachWord.png)
-7. TruncateString.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3c_String_TruncateString.png)
-8. NumericCheck.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3c_String_NumericCheck.png)
-9. RandomStringGenerator.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3c_String_RandomStringGenerator.png)
-10. WordCounter.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3c_String_WordCounter.png)
+1. IsNullOrEmptyCheck.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3b_String_IsNullOrEmptyCheck.png)
+2. SubstringCount.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3b_String_SubstringCount.png)
+3. ReverseStringProgram.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3b_String_ReverseStringProgram.png)
+4. PalindromeCheck.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3b_String_PalindromeCheck.png)
+5. RemoveWhitespace.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3b_String_RemoveWhitespace.png)
+6. CapitalizeEachWord.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3c_String_CapitalizeEachWord.png)
+7. TruncateString.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3c_String_TruncateString.png)
+8. NumericCheck.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3c_String_NumericCheck.png)
+9. RandomStringGenerator.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3c_String_RandomStringGenerator.png)
+10. WordCounter.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-3_StringOperation/3c_String_Exercises/Screenshot-3c_String_WordCounter.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
