@@ -1,4 +1,4 @@
-##🔸 EXP-8: JDBC + SQL 
+## 🔸 EXP-8: JDBC + SQL 
 
 ## 🐬 MySql_Setup :- (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/MySQL_Setup)
 
