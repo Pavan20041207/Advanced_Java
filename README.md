@@ -1,8 +1,11 @@
 # Advances-Java
 A comprehensive repository of advanced Java programs and examples, meticulously curated to cover the following core topics:
->📦 Java Collections Framework
+
+📦 Java Collections Framework
 
 🔗 LinkedList & ArrayList
+
+🗃️ Set Interface Implementations
 
 🧭 HashMap & TreeMap
 
@@ -10,7 +13,9 @@ A comprehensive repository of advanced Java programs and examples, meticulously 
 
 🪟 Swing GUI Development
 
-📂 File I/O Operations
+🌐 Servlet Programming 
+
+🔐 JSP Programming
 
 🗃️ JDBC (Java Database Connectivity)
 
