@@ -150,7 +150,7 @@ PrimeServlet.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanc
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-##🔹 EXP-7a: JSP_Session_Management 
+## 🔹 EXP-7a: JSP_Session_Management 
 
 welcome.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-7a_JSP_Session_Management/Screenshot-7a_Session_Management.png)
 
@@ -162,7 +162,7 @@ setCookie.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_J
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-##🔸 EXP-8: JDBC + SQL 
+## 🔸 EXP-8: JDBC + SQL 
 
 ## 🐬 MySql_Setup :- (https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/MySQL_Setup)
 
