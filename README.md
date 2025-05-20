@@ -42,11 +42,11 @@ A comprehensive repository of advanced Java programs and examples, meticulously 
 
 📁 1c_Linked_List-
 
-1. LinkedListIterationFromSecond.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_IterationFromSecond.png)
-2. LinkedListReverseIteration.java    :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_ReverseIteration.png)
-3. LinkedListOfferLast.java           :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_OfferLast.png)
-4. LinkedListElementWithPosition.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_ElementWithPosition.png)
-5. LinkedListSwapElements.java        :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_SwapElements.png)
+1. LinkedListIterationFromSecond.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-1_ListOperation/1c_LinkedList/Screenshot-1c_LinkedList_Iterator.png)
+2. LinkedListReverseIteration.java    :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-1_ListOperation/1c_LinkedList/Screenshot-1c_Linkedlist_ReverseLinkedListIteration.png)
+3. LinkedListOfferLast.java           :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-1_ListOperation/1c_LinkedList/Screenshot-1c_LinkedList_InsertAtEnd.png)
+4. LinkedListElementWithPosition.java :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-1_ListOperation/1c_LinkedList/Screenshot-1c_LinkedList_DisplayElementsWithPositions.png)
+5. LinkedListSwapElements.java        :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-1_ListOperation/1c_LinkedList/Screenshot-1c_LinkedList_SwapElementsInLinkedList.png)
  
 ----------------------------------------------------------------------------------------------------------------------------------------- 
 
