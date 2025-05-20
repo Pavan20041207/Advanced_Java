@@ -164,7 +164,7 @@ setCookie.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_J
 
 ## 🔸 EXP-8: JDBC + SQL 
 
-## 🐬 MySql_Setup :-[Link](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/MySQL_Setup).
+## 🐬 MySql_Setup :-[Link](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-8_JDBC%2BSQL/MySQL_Setup)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
@@ -203,22 +203,22 @@ delete_coffee.jsp :- 1-[Output Screenshot](https://github.com/Pavan20041207/Adva
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📌 9b_Query_Coffee-
-query_coffee.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b1.png)||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b2.png)
+query_coffee.jsp :- [Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9b_Query_Coffee/9b1.png)||
+2-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9b_Query_Coffee/9b2.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📌 9c_JDBC_Append- 
-append.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9c_JDBC_Append/9c1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9c_JDBC_Append/9c2.png)
+append.jsp :- 1-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9c_JDBC_Append/9c1.png) ||
+2-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9c_JDBC_Append/9c2.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📌 9d_JDBC_Delete-
-delete.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9d1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9d2.png) ||
-3-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9d3.png)
+delete.jsp :- 1-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9d_JDBC_Delete/9d1.png) ||
+2-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9d_JDBC_Delete/9d2.png) ||
+3-[Output Screenshot](https://github.com/Pavan20041207/Advanced_Java/blob/main/EXP-9_JDBC%2BSQL/9d_JDBC_Delete/9d3.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
