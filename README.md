@@ -1,11 +1,4 @@
 # Advances-JAVA
-
-## NAME :- Padmaraj Kurundwade
-## USN  :- 4AL22CS097
-## SEM / SEC :- 6th Sem / B-Section
-
------------------------------------------------------------------------------------------------------------------------------------------ 
-
 A comprehensive collection of Java programs and examples covering **Advanced_Concepts** such as:
 > 🧰 Collections • 🔁 LinkedList & ArrayList • 🗃️ HashMaps • 🧵 Threads • 🖼️ Swings • 📁 File I/O • 🗄️ JDBC
 Ideal for 📚 academic reference, 💼 interview preparation, and 🔧 real-world projects.
