@@ -1,7 +1,18 @@
 # Advances-Java
-A comprehensive collection of Java programs and examples covering **Advanced_Concepts** such as:
-> 🧰 Collections • 🔁 LinkedList & ArrayList • 🗃️ HashMaps • 🧵 Threads • 🖼️ Swings • 📁 File I/O • 🗄️ JDBC
-Ideal for 📚 academic reference, 💼 interview preparation, and 🔧 real-world projects.
+A comprehensive repository of advanced Java programs and examples, meticulously curated to cover the following core topics:
+>📦 Java Collections Framework
+
+🔗 LinkedList & ArrayList
+
+🧭 HashMap & TreeMap
+
+🧵 Multithreading & Concurrency
+
+🪟 Swing GUI Development
+
+📂 File I/O Operations
+
+🗃️ JDBC (Java Database Connectivity)
 
 # Output Of Programs :-
 -----------------------------------------------------------------------------------------------------------------------------------------  
