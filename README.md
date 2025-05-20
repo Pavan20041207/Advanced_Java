@@ -22,7 +22,7 @@ A comprehensive repository of advanced Java programs and examples, meticulously 
 # Output Of Programs :-
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-1_List_Operations :
+## 🔹 EXP-1: List Operations
 
 📁 1a_List_Operations-
 
@@ -50,7 +50,7 @@ A comprehensive repository of advanced Java programs and examples, meticulously 
  
 ----------------------------------------------------------------------------------------------------------------------------------------- 
 
-## 📁 EXP-2_Set_Interface :
+## 🔸 EXP-2: Set & Map Interface
 
 MapInterfaceDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/MapInterfaceDemo.png)
 
@@ -83,7 +83,7 @@ MapInterfaceDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwa
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-3_String_Operations :
+## 🔹 EXP-3: String Operations
 
 📁 3a_StringOperations- 
 StringOperationsDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3a_StringOperations/Screenshot-3a_String_Operations.png)
@@ -109,7 +109,7 @@ StringPerformanceTest.java :- [Output Screenshot](https://github.com/PadmarajKur
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-4_Swings :
+## 🔸 EXP-4: Swings UI
 
 4a. SwingExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-4_Swings/Screenshot-4a_Swings_SwingExample.png)
 
@@ -121,7 +121,7 @@ StringPerformanceTest.java :- [Output Screenshot](https://github.com/PadmarajKur
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-5_Swings :
+##🔹 EXP-5: Swings UI
 
 5a. JListExample.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-5_Swings/Screenshot-5a_Swings_JListExample.png)
 
@@ -133,7 +133,7 @@ StringPerformanceTest.java :- [Output Screenshot](https://github.com/PadmarajKur
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-6_servlet_programs :
+## 🔸 EXP-6: Servlet Programs
 
 📁 6a_FactorialServlet-
 FactorialServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-6_servlet_programs/6a_FactorialServlet/Screenshot-6a_FactorialServlet.png)
@@ -150,19 +150,19 @@ PrimeServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-7a_JSP_Session_Management :
+##🔹 EXP-7a: JSP_Session_Management 
 
 welcome.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-7a_JSP_Session_Management/Screenshot-7a_Session_Management.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-7b_JSP_Cookie_Management :
+## 🔹 EXP-7b: JSP_Cookie_Management 
 
 setCookie.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-7b_JSP_Cookie_Management/Screenshot-7b_Cookie_Management.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-8_JDBC_+_SQL :
+##🔸 EXP-8: JDBC + SQL 
 
 ## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/MySQL_Setup
 
@@ -190,7 +190,7 @@ update_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Ad
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
-## 📁 EXP-9_JDBC_+_SQL :
+## 🔹 EXP-9: JDBC + SQL
 
 ## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/MySQL_Setup)
 
