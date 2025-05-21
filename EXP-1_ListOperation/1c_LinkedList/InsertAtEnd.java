@@ -3,7 +3,6 @@ Write a Java program to insert the specified element at the end of a linked list
 l_listobj.offerLast("Pink"))
 */
 
-
 package adj;
 
 import java.util.LinkedList;
