@@ -4,7 +4,6 @@ using Collections.sort( ArrayListObj)
 */
 
 package adj;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
