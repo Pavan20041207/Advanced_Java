@@ -3,7 +3,6 @@ Write a java program for getting different colors through ArrayList interface an
 the color "Red" is available or not 
 */
 
-
 package adj;
 
 import java.util.ArrayList;
