@@ -3,7 +3,6 @@ Write a Java program to display elements and their positions in a linked list ( 
 l_listobj.get(p) )
 */
 
-
 package adj;
 
 import java.util.LinkedList;
