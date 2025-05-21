@@ -3,7 +3,6 @@
 (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
  */
 
-
 package Collections;
 
 import java.util.*;
