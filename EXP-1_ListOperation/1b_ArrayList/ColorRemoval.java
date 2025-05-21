@@ -4,7 +4,6 @@ Write a java program for getting different colors through ArrayList interface an
 */
 
 package adj;
-
 import java.util.ArrayList;
 
 public class ColorRemoval {
