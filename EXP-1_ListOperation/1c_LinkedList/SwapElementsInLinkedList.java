@@ -3,7 +3,6 @@ Write a Java program that swaps two elements ( first and third elements ) in a l
 Collections.swap(l_list, 0, 2))
 */
 
-
 package adj;
 
 import java.util.LinkedList;
