@@ -3,7 +3,6 @@
 ("C1", "Red"); ("C2", "Green"); ("C3", "Black");("C4", "White")
  */
 
-
 package Collections;
 
 import java.util.TreeMap;
